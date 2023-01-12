@@ -11,6 +11,8 @@ Take HF001 for example.
 ```
 subscribe topic "/velodyne_points_HDL32"
 
+*If you use the USTC FLICAR dataset in your work, please cite our work using the BibTex code on the dataset [website](https://ustc-flicar.github.io/). Please also cite A-LOAM publications below.*
+
 # A-LOAM
 ## Advanced implementation of LOAM
 
